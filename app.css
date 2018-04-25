@@ -13,3 +13,11 @@ nav{
   justify-content: space-around;
   width: 30vw;
 }
+
+.intro-banner {
+    background: url(intro_banner.png) no-repeat center center fixed;
+    background-size: cover;
+    height: 600px;
+    padding-top: 8vh;
+    margin-top: -8vh;
+}
